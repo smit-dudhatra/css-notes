@@ -1,0 +1,7 @@
+In modern CSS layout design,
+display: flex is the current, standard syntax used to create flexible layouts,
+while box and flexbox are obsolete, legacy values from older, deprecated drafts of the same specification
+
+display: box; --- 2009 ----- Obsolete
+display: flexbox; ---- 2011 ------ Obsolete
+display: flex; ----- 2012–Present ----- Standard
