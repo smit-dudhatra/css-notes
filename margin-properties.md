@@ -1,7 +1,5 @@
 # CSS Margin Properties
 
-**Date:** 2026-09-26
-
 CSS offers several margin properties to control the space **outside an element's border**. These are split into **individual side properties, shorthand properties, and modern logical properties**. [1]
 
 ## 1. Individual Side Properties
