@@ -1,4 +1,3 @@
-```markdown
 # CSS Measurements and Units
 
 CSS measurements (or units) are used to define the size, spacing, and layout of elements on a web page. They apply to properties like width, height, padding, margin, and font-size. [1, 2, 3]
@@ -56,4 +55,3 @@ Are you currently working on a specific project layout or trying to make a compo
 [6] [https://study.com](https://study.com/academy/lesson/css-units-and-measurement-techniques.html)
 [7] [https://developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Values_and_units)
 [8] [https://www.youtube.com](https://www.youtube.com/watch?v=-pL_yMQTsPE&t=20)
-```
