@@ -5,3 +5,8 @@ while box and flexbox are obsolete, legacy values from older, deprecated drafts 
 display: box; --- 2009 ----- Obsolete
 display: flexbox; ---- 2011 ------ Obsolete
 display: flex; ----- 2012–Present ----- Standard
+
+
+--------------
+
+2em means a size that is two times (2x) the font size of the parent or current element
